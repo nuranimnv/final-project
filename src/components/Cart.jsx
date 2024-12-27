@@ -8,25 +8,26 @@ const OffCanvasMenu = ({ open, setOpen }) => {
   const toggleMenu = () => {
     setOpen(open === "none" ? "block" : "none");
   };
+  
   const [basket, setBasket] = useContext(Context);
-  let [total, setTotal] = useState(0);
-  let [combined, setCombined] = useState([]);
-  let [key2, setKey2] = useState("");
+  const [total, setTotal] = useState(0);
+  const [combined, setCombined] = useState([]);
+  
   useEffect(() => {
     let itemSet = {};
     let key;
+    
     basket.forEach((item) => {
       let arr = [];
-      console.log(item.quantityss);
+      
       if (item.quantityss) {
-        item.quantityss.map((items) => {
+        item.quantityss.forEach((items) => {
           if (items.count > 0) {
             arr.push(`${items.name}-${items.count}`);
             key =
               item.names === "create-your-own"
                 ? `${item.names}-${item.price}-${arr.join("")}`
                 : item.names;
-            setKey2(key);
           }
         });
       } else {
@@ -35,7 +36,7 @@ const OffCanvasMenu = ({ open, setOpen }) => {
             ? `${item.names}-${item.price}`
             : item.names;
       }
-
+      
       if (itemSet[key]) {
         itemSet[key].count += item.count;
       } else {
@@ -55,13 +56,13 @@ const OffCanvasMenu = ({ open, setOpen }) => {
   }, [basket]);
 
   const deleteItem = (names, price, key2) => {
-    let newChecked = basket.filter(
+    const newBasket = basket.filter(
       (item) =>
         !(item.names === names && item.price === price && item.diff === key2)
     );
-    setBasket(newChecked);
+    setBasket(newBasket);
 
-    let newCombined = combined.filter(
+    const newCombined = combined.filter(
       (item) =>
         !(item.names === names && item.price === price && item.diff === key2)
     );
@@ -75,9 +76,10 @@ const OffCanvasMenu = ({ open, setOpen }) => {
         className="fixed inset-0 bg-black bg-opacity-50 z-40"
         onClick={toggleMenu}
       ></div>
+      
       <div
         style={{ display: open }}
-        className="fixed font-sofia right-0 z-[52] h-[100vh] top-0 bg-white w-[35%]  max-[1400px]:w-[40%] max-[1200px]:w-[50%] max-lg:w-[55%] max-md:w-[80%] max-[550px]:w-full transition-transform duration-300 px-[30px]"
+        className="fixed font-sofia right-0 z-[52] h-[100vh] top-0 bg-white w-[35%] max-[1400px]:w-[40%] max-[1200px]:w-[50%] max-lg:w-[55%] max-md:w-[80%] max-[550px]:w-full transition-transform duration-300 px-[30px]"
       >
         <div className="flex items-center border-b justify-between pt-10">
           <p className="text-[21px] font-faro">My Cart</p>
@@ -87,13 +89,12 @@ const OffCanvasMenu = ({ open, setOpen }) => {
             className="cursor-pointer"
           />
         </div>
+
         <div
-          className={`h-[70vh] ${
-            combined.length > 5 && "overflow-y-scroll"
-          }  mt-4`}
+          className={`h-[70vh] ${combined.length > 5 && "overflow-y-scroll"} mt-4`}
         >
-          <table className="">
-            {combined?.length > 0 ? (
+          <table>
+            {combined.length > 0 ? (
               <thead>
                 <tr>
                   <th></th>
@@ -103,32 +104,38 @@ const OffCanvasMenu = ({ open, setOpen }) => {
                 </tr>
               </thead>
             ) : (
-              "Your cart is empty. Start shopping!"
+              <tbody>
+                <tr>
+                  <td colSpan="4" className="text-center">
+                    Your cart is empty. Start shopping!
+                  </td>
+                </tr>
+              </tbody>
             )}
-            <tbody className="">
-              {combined?.map((item, index) => (
-                <tr key={index} className="text-[#613223] ">
-                  <td className="mx-auto w-[37px] max-lg:w-[40px] float-left md:mt-4  pb-2.5">
+            <tbody>
+              {combined.map((item, index) => (
+                <tr key={index} className="text-[#613223]">
+                  <td className="mx-auto w-[37px] max-lg:w-[40px] float-left md:mt-4 pb-2.5">
                     <NavLink to={`/shop/product/${item.names}`}>
-                      <img src={item?.cartImg} alt="" />
+                      <img src={item?.cartImg} alt={item.names} />
                     </NavLink>
                   </td>
-                  <td className="text-[20px] font-bold max-md:text-[14px]  max-[550px]:text-[12.5px] capitalize pl-2  pb-2.5">
+                  <td className="text-[20px] font-bold max-md:text-[14px] max-[550px]:text-[12.5px] capitalize pl-2 pb-2.5">
                     {item.names?.split("-").join(" ")}
-                    {`${item.subname ? `-${item.subname}` : ``}`}
+                    {item.subname && ` - ${item.subname}`}
                     <span className="hidden">{item.adds}</span>
                     {item.pack && (
-                      <p className="text-[16px] max-md:text-[14px] font-normal max-[550px]:text-[12.5px] lowercase   pb-2.5">
+                      <p className="text-[16px] max-md:text-[14px] font-normal max-[550px]:text-[12.5px] lowercase pb-2.5">
                         ({item.pack})
                       </p>
                     )}
                   </td>
-                  <td className="h-[20px] m-10  pb-2.5">
+                  <td className="h-[20px] m-10 pb-2.5">
                     <div className="w-[30px] h-[30px] mx-auto text-[#613223] border border-black rounded-sm text-[18px] text-center">
                       {item.count}
                     </div>
                   </td>
-                  <td className="text-[20px] text-right  max-md:text-[17px]  ">
+                  <td className="text-[20px] text-right max-md:text-[17px]">
                     <p>${(item.count * item.price).toFixed(2)}</p>
                     <button
                       onClick={() =>
@@ -144,10 +151,11 @@ const OffCanvasMenu = ({ open, setOpen }) => {
             </tbody>
           </table>
         </div>
-        <div className="">
-          {combined.length > 0 ? (
-            <div className="relative ">
-              <div className="flex border-y-2 ">
+
+        {combined.length > 0 && (
+          <div>
+            <div className="relative">
+              <div className="flex border-y-2">
                 <p className="block w-full font-bold text-[18px]">Subtotal</p>
                 <p className="font-bold text-[18px]">${total}</p>
               </div>
@@ -169,10 +177,8 @@ const OffCanvasMenu = ({ open, setOpen }) => {
                 </NavLink>
               </div>
             </div>
-          ) : (
-            ""
-          )}
-        </div>
+          </div>
+        )}
       </div>
     </>
   );

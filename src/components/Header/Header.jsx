@@ -108,14 +108,21 @@ export default function Header({ bgcolor, color, title, onClick }) {
                                 <div className="mt-5">
                                     {show.map((item, i) => {
                                         return (
-                                            <div className="flex  items-center justify-between mt-2">
+                                            <div className="flex items-center justify-between mt-2">
                                                 <div className="flex items-center">
-                                                    <img src={`${item.img}`} className='h-[40px]' alt="" />
-                                                    <NavLink onClick={shows} to={link ? `/shop/product/${link}` : ""} className='ml-2 font-bold capitalize'>{item.name.split("-").join(" ")}</NavLink>
+                                                    <img src={`${item.img}`} className="h-[40px]" alt="" />
+                                                    <NavLink
+                                                        onClick={shows}
+                                                        to={item.link ? `/shop/product/${item.link}` : '/shop'}  // Eğer link yoksa ana sayfaya yönlendir
+                                                        className="ml-2 font-bold capitalize"
+                                                    >
+                                                        {item.name.split("-").join(" ")}
+                                                    </NavLink>
                                                 </div>
                                                 <p>Product</p>
                                             </div>
-                                        )
+                                        );
+                                        
                                     })}
 
                                 </div>

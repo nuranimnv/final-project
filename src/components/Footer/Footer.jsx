@@ -127,7 +127,7 @@ function Footer() {
                     <div className="flex justify-between max-md:flex-col gap-x-2 font-sofia">
                         <div className='lg:text-[15px] w-[83%] max-[1400px]:w-[77%] max-lg:text-[13px] max-lg:w-[80%] max-md:w-full'>
                             <p className=''>
-                                <strong className='mr-4 max-md:block'>© 2024 Barcel USA, LLC</strong>
+                                <strong className='mr-4 max-md:block'>© 2024 Baku Azerbaijan</strong>
                                 <NavLink to='/about' className='border-r-2 border-r-white hover:underline pr-2'>Terms of use</NavLink>
                                 <NavLink to='/about' className='border-r-2 border-r-white hover:underline px-2'>Privacy Policy</NavLink>
                                 <NavLink to='/about' className='border-r-2 border-r-white hover:underline px-2'>CA Supply Chain</NavLink>
