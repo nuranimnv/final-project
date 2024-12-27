@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react'
 import { IoMdClose } from 'react-icons/io'
-import { IoCheckmark } from 'react-icons/io5'
 import { NavLink } from 'react-router-dom'
 
 function Adress() {
