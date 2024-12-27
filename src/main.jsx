@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import ReactDOM from 'react-dom/client';
-import { createBrowserRouter, RouterProvider, useLocation, } from 'react-router-dom';
+import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import ShopLayout from './components/ShopPopcorn/ShopLayout';
 import Main from './components/MainPage/Main';
 import Create from './components/CreatePages/Create';
@@ -15,7 +15,7 @@ import Mushroom from './components/Explore/Mushroom';
 import Gourmet from './components/Explore/Gourmet';
 import CustomerCare from './components/FooterContent/CustomerCare';
 import About from './components/FooterContent/About';
-import Faq from './components/FooterContent/Faq'
+import Faq from './components/FooterContent/Faq';
 import Tastings from './components/FooterContent/Tastings';
 import BulkOrders from './components/FooterContent/BulkOrders';
 import Shipping from './components/FooterContent/Shipping';
@@ -40,26 +40,13 @@ import Hallowen from './components/Explore/Hallowen';
 import Easter from './components/Explore/Easter';
 import NewYear from './components/Explore/NewYear';
 import Christmas from './components/Explore/Christmas';
-import Login from './components/LoginMenu/Login';
 import ContextProvider from './context/ContextProvider';
 import Edit from './components/Edit';
 import Checkout from './components/ShopPopcorn/Checkout';
-import SignUp from './components/LoginMenu/SignUp';
-import AccountMenu from './components/LoginMenu/AccountMenu';
-import Order from './components/LoginMenu/Order';
 import TermsOfUse from './components/FooterContent/TermsOfUse';
 import PrivacyPolicy from './components/FooterContent/PrivacyPolicy';
-import Subs from './components/LoginMenu/Subs';
-import Address from './components/LoginMenu/Address';
-import Billing from './components/LoginMenu/Billing';
-import Shippings from './components/LoginMenu/Shipping';
-import NewAddress from './components/LoginMenu/NewAddress';
-import Details from './components/LoginMenu/Details';
-import MainMenu from './components/LoginMenu/MainMenu';
-import LoginAuth from './components/LoginMenu/LoginAuth';
 import Loading from './Loading';
 import Layout from './Layout';
-
 
 const router = createBrowserRouter([
   {
@@ -84,25 +71,9 @@ const router = createBrowserRouter([
           { path: "", element: <Explore /> },
         ]
       },
-
       { path: "/cart/", element: <Edit /> },
       { path: "/checkout/", element: <Checkout /> },
       { path: "/fundraising/", element: <Fundraising /> },
-
-      {
-        path: "/my-account/", element: <LoginAuth><AccountMenu /></LoginAuth>, children: [
-          { path: "/my-account/", element: <MainMenu /> },
-          { path: "/my-account/order", element: <Order /> },
-          { path: "/my-account/subscriptions", element: <Subs /> },
-          { path: "/my-account/edit-account", element: <Details /> },
-          { path: "/my-account/edit-address", element: <Address /> },
-          { path: "/my-account/edit-address/billing", element: <Billing /> },
-          { path: "/my-account/edit-address/shipping/:id", element: <Shippings /> },
-          { path: "/my-account/new-address", element: <NewAddress /> },
-
-        ]
-      },
-      { path: "/register/", element: <SignUp /> },
       { path: "/terms-of-use/", element: <TermsOfUse /> },
       { path: "privacy-policy/", element: <PrivacyPolicy /> },
       { path: "/corporate-gifts/", element: <CorporateGift /> },
@@ -134,7 +105,6 @@ const router = createBrowserRouter([
     ]
   }
 ]);
-
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <ContextProvider>

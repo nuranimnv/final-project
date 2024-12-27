@@ -84,7 +84,7 @@ function Footer() {
                         <div className="max-md:hidden ml-10 font-sofia">
                             <div className="font-bold lg:text-[16px] max-lg:text-[13px]">
                                 <p className='inline-block mb-8 w-1/3'>
-                                    <NavLink to={"/customer-care/"} className="hover:border-b-2 hover:border-b-white">Customer Care</NavLink>
+                                    <NavLink className="hover:border-b-2 hover:border-b-white">Customer Care</NavLink>
                                 </p>
                                 <p className='inline-block mb-8 w-1/3'>
                                     <NavLink to={"/about/"} className="hover:border-b-2 hover:border-b-white">Our Story</NavLink>
@@ -99,7 +99,7 @@ function Footer() {
                                     <NavLink to={"/mushroom-vs-butterfly-popcorn/"} className="hover:border-b-2 hover:border-b-white">About Popcorn</NavLink>
                                 </p>
                                 <p className='inline-block mb-8 w-1/3'>
-                                    <NavLink to={"/shipping-information/"} className="hover:border-b-2 hover:border-b-white">Shipping and Returns</NavLink>
+                                    <NavLink className="hover:border-b-2 hover:border-b-white">Shipping and Returns</NavLink>
                                 </p>
                                 <p className='inline-block mb-8 w-1/3'>
                                     <NavLink to={"/bulk-orders/"} className="hover:border-b-2 hover:border-b-white">Bulk Orders</NavLink>
@@ -110,15 +110,15 @@ function Footer() {
                             </div>
                         </div>
                         <div className="max-md:flex max-md:flex-wrap justify-center font-sofia ">
-                            <NavLink to={"https://www.facebook.com/popcornopolis"} target='_blank' className="flex items-center hover:underline ">
+                            <NavLink target='_blank' className="flex items-center hover:underline ">
                                 <GrFacebookOption size={30} className='bg-white p-2 text-[#F22F35] rounded-full mr-2 hover:opacity-75 duration-300' />
                                 <p>Facebook</p>
                             </NavLink>
-                            <NavLink to={"https://www.instagram.com/popcornopolis"} target='_blank' className='flex items-center hover:underline my-3 max-md:mx-5 '>
+                            <NavLink target='_blank' className='flex items-center hover:underline my-3 max-md:mx-5 '>
                                 <IoLogoInstagram size={30} className='bg-white p-2 text-[#F22F35] rounded-full mr-2 hover:opacity-75 duration-300' />
                                 Instagram
                             </NavLink>
-                            <NavLink to={"https://x.com/popcornopolis"} className='flex items-center hover:underline ' target='_blank'>
+                            <NavLink className='flex items-center hover:underline ' target='_blank'>
                                 <FaXTwitter size={30} className='bg-white p-2 text-[#F22F35] rounded-full mr-2 hover:opacity-75 duration-300 ' />
                                 X
                             </NavLink>
@@ -128,18 +128,18 @@ function Footer() {
                         <div className='lg:text-[15px] w-[83%] max-[1400px]:w-[77%] max-lg:text-[13px] max-lg:w-[80%] max-md:w-full'>
                             <p className=''>
                                 <strong className='mr-4 max-md:block'>© 2024 Barcel USA, LLC</strong>
-                                <NavLink to='/terms-of-use/' className='border-r-2 border-r-white hover:underline pr-2'>Terms of use</NavLink>
-                                <NavLink to='/privacy-policy/' className='border-r-2 border-r-white hover:underline px-2'>Privacy Policy</NavLink>
-                                <NavLink to='/ca-supply-chain/' className='border-r-2 border-r-white hover:underline px-2'>CA Supply Chain</NavLink>
-                                <NavLink to='/privacy-preferences/' className='border-r-2 border-r-white hover:underline px-2'>Do Not Sell or Share My Personal Information</NavLink>
-                                <NavLink to='/about-our-ads/' className='border-r-2 border-r-white hover:underline px-2'>About Our Ads</NavLink>
-                                <NavLink to='/accessibility/' className='border-r-2 border-r-white hover:underline px-2'>Accessibility</NavLink>
-                                <NavLink to='/covid-19-response/' className='border-r-2 border-r-white hover:underline px-2'>COVID-19</NavLink>
-                                <NavLink to={"https://barcel-usa.com/careers"} className='pl-2 hover:underline'>Join Our Team</NavLink>
+                                <NavLink to='/about' className='border-r-2 border-r-white hover:underline pr-2'>Terms of use</NavLink>
+                                <NavLink to='/about' className='border-r-2 border-r-white hover:underline px-2'>Privacy Policy</NavLink>
+                                <NavLink to='/about' className='border-r-2 border-r-white hover:underline px-2'>CA Supply Chain</NavLink>
+                                <NavLink to='/about' className='border-r-2 border-r-white hover:underline px-2'>Do Not Sell or Share My Personal Information</NavLink>
+                                <NavLink to='/about' className='border-r-2 border-r-white hover:underline px-2'>About Our Ads</NavLink>
+                                <NavLink to='/about/' className='border-r-2 border-r-white hover:underline px-2'>Accessibility</NavLink>
+                                <NavLink to='/about' className='border-r-2 border-r-white hover:underline px-2'>COVID-19</NavLink>
+                                <NavLink to='/about' className='pl-2 hover:underline'>Join Our Team</NavLink>
                             </p>
                         </div>
                         <div className='lg:text-[16px] max-lg:text-[13px] max-lg:w-[30%] max-sm:w-[50%]'>
-                            <p className='float-right max-md:float-left'>By <strong><NavLink to={"https://isadoradigitalagency.com/"} target='_blank' className="hover:underline">Isadora Digital Agency</NavLink></strong></p>
+                            <p className='float-right max-md:float-left'>By <strong><NavLink to='/about' target='_blank' className="hover:underline">nuranimnv</NavLink></strong></p>
                         </div>
                     </div>
                 </div>
