@@ -28,8 +28,8 @@ function Covid() {
         <div className="max-w-[988px] mx-auto px-[30px] ">
           <h3 className='text-[42px] max-lg:text-[37px] max-md:text-[32px] text-[#E40C13] mb-2'>Valued Customers and Friends,</h3>
           <div className="text-[17px] max-lg:text-[15px] text-[#613223] font-sofia">
-            <p className='mb-10 '>During this unprecedented time of COVID-19 concern, we have compiled our responses to your most-often asked questions. Please know that we are doing everything we can to keep the Popcornopolis facility running safely, and are looking after the health and well-being of our team members—and by extension, the safety of the products we ship you. Reach us any time by email or by phone if you have additional questions or concerns. Thank you for your continued support. Without you, there would be no Popcornopolis—and we never forget that.</p>
-            <p className='mb-10 '>Stay safe, <br />Team Popcornopolis</p>
+            <p className='mb-10 '>During this unprecedented time of COVID-19 concern, we have compiled our responses to your most-often asked questions. Please know that we are doing everything we can to keep the INCorn facility running safely, and are looking after the health and well-being of our team members—and by extension, the safety of the products we ship you. Reach us any time by email or by phone if you have additional questions or concerns. Thank you for your continued support. Without you, there would be no INCorn—and we never forget that.</p>
+            <p className='mb-10 '>Stay safe, <br />Team INCorn</p>
           </div>
 
           <div className="chapter1 mb-10">
@@ -67,7 +67,7 @@ function Covid() {
               </div>
               <div className='flex gap-x-3 '>
                 <span className='w-[8px] h-[8px] absolute  bg-[#E40C13] rounded-full mt-2'></span>
-                <p className='ml-5 mb-2'>Popcornopolis always takes food safety very seriously and we regularly receive unannounced audits of our facility and manufacturing practices. During the most recent unannounced audit our resulting score was 99.6%. (A+)</p>
+                <p className='ml-5 mb-2'>INCorn always takes food safety very seriously and we regularly receive unannounced audits of our facility and manufacturing practices. During the most recent unannounced audit our resulting score was 99.6%. (A+)</p>
               </div>
               <div className='flex gap-x-3 '>
                 <span className='w-[8px] h-[8px] absolute  bg-[#E40C13] rounded-full mt-2'></span>
@@ -81,7 +81,7 @@ function Covid() {
 
           </div>
           <div className="chapter3-1">
-            <h5 className='text-[35px] max-lg:text-[32px] max-md:text-[28px] text-[#E40C13] mb-10'>What is Popcornopolis doing to prevent the spread?</h5>
+            <h5 className='text-[35px] max-lg:text-[32px] max-md:text-[28px] text-[#E40C13] mb-10'>What is INCorn doing to prevent the spread?</h5>
             <div className="text-[17px] md:pl-[60px] max-lg:text-[15px] text-[#613223] font-sofia">
               <div className='flex gap-x-3 '>
                 <span className='w-[8px] h-[8px] absolute  bg-[#E40C13] rounded-full mt-2'></span>

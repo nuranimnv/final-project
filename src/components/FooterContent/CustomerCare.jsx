@@ -19,7 +19,7 @@ function CustomerCare() {
                     <div className="md:w-[70%] max-md:order-2">
                         <p className='text-[60px] max-[1200px]:text-[50px] max-lg:text-[44px] max-md:text-[33px] leading-none text-[#E40C13]'>Customer <span className='text-[90px] max-[1200px]:text-[60px] max-lg:text-[53px] font-turbinado text-[#613223]'>Care.</span></p>
                         <div className='mt-5 w-7 h-1 mb-7 bg-[#E22733]'></div>
-                        <p className='text-[20px] max-md:text-[17px] mb-10 text-[#613223] font-sofia'>Since 2006, Popcornopolis has been dedicated to making the best product available, and we back that up with our Unconditional 100% Guarantee. If you are not 100% satisfied, have questions about our product, or just want to tell us your thoughts on our products, please contact our Customer Service Team using the form below.</p>
+                        <p className='text-[20px] max-md:text-[17px] mb-10 text-[#613223] font-sofia'>Since 2006, INcorn has been dedicated to making the best product available, and we back that up with our Unconditional 100% Guarantee. If you are not 100% satisfied, have questions about our product, or just want to tell us your thoughts on our products, please contact our Customer Service Team using the form below.</p>
                     </div>
                 </div>
             </div>

@@ -358,7 +358,7 @@ function Page2() {
                                 }
                             </div>
                         </div>
-                        <p className='text-[19px] max-lg:text-[14px] pt-1 font-sofia font-bold'>We’re adding some heat to the season. Introducing Popcornopolis® Takis Fuego® Popcorn, an intense flavor combination that brings spicy and tart together to wake-up the taste buds. Add the perfect crunch of our premium popcorn and you won’t be able to extinguish the heat between bites.</p>
+                        <p className='text-[19px] max-lg:text-[14px] pt-1 font-sofia font-bold'>We’re adding some heat to the season. Introducing İNcorn® Takis Fuego® Popcorn, an intense flavor combination that brings spicy and tart together to wake-up the taste buds. Add the perfect crunch of our premium popcorn and you won’t be able to extinguish the heat between bites.</p>
                         <p className='my-7 max-lg:text-[14px] font-sofia' ><strong>Flavors: </strong>Hot Chili Pepper & Lime</p>
                         <p className='mt-5 '><NavLink to={data.nutrition && `${data.nutrition}`} className="underline text-[17px] max-lg:text-[14px] font-sofia font-bold">Nutrition Facts & Ingredients</NavLink></p>
                         <hr className='border-[#f3d3c9] my-5' />
@@ -457,7 +457,7 @@ function Page2() {
                             <div className="">
                                 <p className='text-[42px] max-[1200px]:text-[30px] max-md:text-[36px] text-[#E22733] my-3 leading-none '>Premium popcorn crafted to perfection<strong className='text-[#613223]'>.</strong></p>
                                 <div className='my-7 w-7 h-1  bg-[#E22733]'></div>
-                                <p className='lg:w-[250px] lg:text-[19px]  text-[#613223] lg:mb-10 font-sofia'>Popcornopolis is a reminder of simpler times. Made with love from our Los Angeles, California factory.</p>
+                                <p className='lg:w-[250px] lg:text-[19px]  text-[#613223] lg:mb-10 font-sofia'>İNcorn is a reminder of simpler times. Made with love from our Los Angeles, California factory.</p>
                             </div>
                             <div className="bg-[#84C4EC]  px-[40px] rounded-tr-[100px] rounded-bl-[50px] py-[70px] lg:max-w-[460px] min-h-[600px] max-[1200px]:min-h-[500px] ">
                                 <div>

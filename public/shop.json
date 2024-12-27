@@ -137,7 +137,6 @@
         "img": "/assets/img/Shop popcorn/KettleCorn.webp",
         "subimg": "/assets/img/Kettle.webp",
         "price": "69.99",
-        "nutrition": "https://www.popcornopolis.com/wp-content/uploads/KettleCorn0.9oz.webp",
         "stock": "have",
         "save": "62.99",
         "savestock": "out",
@@ -147,14 +146,14 @@
         "info1": [
             {
                 "title": "About this flavor",
-                "description": "The best ingredients on the planet make Popcornopolis Kettle Corn. Popped in small batches with a winning combination of sugar and salt for a perfect balance, along with an unforgettable crunch to make these All-American popcorn treats. It’s sweet. It’s salty. It’s delicious.",
+                "description": "The best ingredients on the planet make INCorn Kettle Corn. Popped in small batches with a winning combination of sugar and salt for a perfect balance, along with an unforgettable crunch to make these All-American popcorn treats. It’s sweet. It’s salty. It’s delicious.",
                 "img": "/assets/img/product/Kettle1.webp"
             }
         ],
         "info2": [
             {
                 "title": "A snack and a gift",
-                "description": "Popcornopolis mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up a case of popcorn treats today and you’ll be ready for anything!",
+                "description": "INCorn mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up a case of popcorn treats today and you’ll be ready for anything!",
                 "img": "/assets/img/product/Kettle2.jpg"
             }
         ]
@@ -164,12 +163,11 @@
         "bg": "#E7730D",
         "fill": "#EB8124",
         "pack": "Pack of 40",
-        "description": "Have you ever dreamed about chocolate flavored popcorn? So have we. In fact, we made that dream a reality many years ago with our, now famous, Zebra® Popcorn, the original Popcornopolis gourmet Caramel Corn drizzled with white and dark confectioner's chocolates....",
+        "description": "Have you ever dreamed about chocolate flavored popcorn? So have we. In fact, we made that dream a reality many years ago with our, now famous, Zebra® Popcorn, the original INCorn gourmet Caramel Corn drizzled with white and dark confectioner's chocolates....",
         "flavor": "Zebra®",
         "img": "/assets/img/Shop popcorn/ZebraMini.webp",
         "subimg": "/assets/img/Shop popcorn/zebra.webp",
         "price": "89.99",
-        "nutrition": "https://www.popcornopolis.com/wp-content/uploads/Zebra2.7oz.webp",
         "stock": "have",
         "save": "82.99",
         "savestock": "out",
@@ -186,7 +184,7 @@
         "info2": [
             {
                 "title": "A snack and a gift",
-                "description": "Popcornopolis mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up a case of popcorn treats today and you’ll be ready for anything.",
+                "description": "INCorn mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up a case of popcorn treats today and you’ll be ready for anything.",
                 "img": "/assets/img/product/Zebra2.webp"
             }
         ]
@@ -202,7 +200,6 @@
         "subimg": "/assets/img/Shop popcorn/minicaramel.webp",
         "price": "23.99",
         "new": "new",
-        "nutritions": "https://www.popcornopolis.com/wp-content/uploads/MicrosoftTeams-image-14.png",
         "stock": "have",
         "save": "21.59",
         "savestock": "out",
@@ -234,7 +231,6 @@
         "flavor": "Caramel Corn",
         "img": "/assets/img/Shop popcorn/CaramelCorn.webp",
         "price": "69.99",
-        "nutrition": "https://www.popcornopolis.com/wp-content/uploads/CaramelCorn2.2oz.webp",
         "stock": "have",
         "save": "62.99",
         "savestock": "out",
@@ -251,7 +247,7 @@
         "info2": [
             {
                 "title": "A snack and a gift",
-                "description": "Popcornopolis mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up a case of popcorn treats today and you’ll be ready for anything!",
+                "description": "INCorn mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up a case of popcorn treats today and you’ll be ready for anything!",
                 "img": "/assets/img/product/Caramel2.webp"
             }
         ]
@@ -266,7 +262,6 @@
         "img": "/assets/img/Shop popcorn/CheedarCheese.webp",
         "subimg": "/assets/img/Shop popcorn/ched.webp",
         "price": "69.99",
-        "nutrition": "https://www.popcornopolis.com/wp-content/uploads/Cheddar_Cheese_0.9oz.jpg",
         "stock": "have",
         "save": "62.99",
         "savestock": "out",
@@ -283,7 +278,7 @@
         "info2": [
             {
                 "title": "A snack and a gift",
-                "description": "Popcornopolis mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up this popcorn by the case today and you’ll be ready for anything!",
+                "description": "INCorn mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up this popcorn by the case today and you’ll be ready for anything!",
                 "img": "/assets/img/product/Cheddar2.webp"
             }
         ]
@@ -293,12 +288,11 @@
         "bg": "#E7730D",
         "fill": "#EB8124",
         "pack": "Pack of 40",
-        "description": "Everyday snacks come in all shapes and sizes but only Popcornopolis comes in cones and mini cones. Only Popcornopolis can offer the delicious chocolatey flavor of Zebra® Popcorn and the very best Kettle, Caramel and Cheese popcorn you will ever try. So, if you want to make the most out of snack time, put this case in your shopping cart today.",
+        "description": "Everyday snacks come in all shapes and sizes but only INCorn comes in cones and mini cones. Only INCorn can offer the delicious chocolatey flavor of Zebra® Popcorn and the very best Kettle, Caramel and Cheese popcorn you will ever try. So, if you want to make the most out of snack time, put this case in your shopping cart today.",
         "flavor": " Caramel Corn, Cheddar Cheese, Kettle Corn, Zebra®",
         "img": "/assets/img/product/mix.webp",
         "subimg": "/assets/img/Shop popcorn/mix.webp",
         "price": "74.99",
-        "nutrition": "https://www.popcornopolis.com/wp-content/uploads/Mini_Big_4.jpg",
         "cash": "have",
         "color": "#613223",
         "bagbgcolor": "#E22733",
@@ -313,7 +307,7 @@
         "info2": [
             {
                 "title": "A snack and a gift",
-                "description": "Popcornopolis mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up a case of popcorn treats today and you’ll be ready for anything.",
+                "description": "INCorn mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up a case of popcorn treats today and you’ll be ready for anything.",
                 "img": "/assets/img/product/Cheddar2.webp"
             }
         ]
@@ -344,7 +338,7 @@
         "info2": [
             {
                 "title": "A snack and a gift",
-                "description": "Popcornopolis mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up a case of popcorn treats today and you’ll be ready for anything!",
+                "description": "INCorn mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up a case of popcorn treats today and you’ll be ready for anything!",
                 "img": "/assets/img/product/Caramel2.webp"
             }
         ]
@@ -382,7 +376,7 @@
         "title": "Classic Stripe 2-Gallon Tin Caramel Corn",
         "bg": "#84C4EC",
         "fill": "#91CBED",
-        "description": "Every popcorn gift tin is not created equal. A Popcornopolis popcorn tin guarantees that you will get a beautiful, reusable steel tub, filled to the brim with the very best gourmet popcorn you have ever tasted. This classic striped edition is filled with caramel corn. Try it yourself, or give it as a gift. Either way, you really can't go wrong. We guarantee it.",
+        "description": "Every popcorn gift tin is not created equal. A INCorn popcorn tin guarantees that you will get a beautiful, reusable steel tub, filled to the brim with the very best gourmet popcorn you have ever tasted. This classic striped edition is filled with caramel corn. Try it yourself, or give it as a gift. Either way, you really can't go wrong. We guarantee it.",
         "flavor": "Caramel Corn",
         "img": "/assets/img/Explore/bigtins.webp",
         "price": "49.99",
@@ -411,7 +405,7 @@
         "bg": "#E7730D",
         "fill": "#EB8124",
         "pack": "Pack of 42",
-        "description": "Tantalize your taste buds and melt a few hearts with the sweet and salty deliciousness of our Valentine's Day-themed Popcornopolis Mini Cones, case of 42. We've wrapped our beloved Kettle Corn kernels in unique, limited-time packaging adorned with heartwarming metallic designs, creating the perfect gift to share with someone special.",
+        "description": "Tantalize your taste buds and melt a few hearts with the sweet and salty deliciousness of our Valentine's Day-themed INCorn Mini Cones, case of 42. We've wrapped our beloved Kettle Corn kernels in unique, limited-time packaging adorned with heartwarming metallic designs, creating the perfect gift to share with someone special.",
         "flavor": "Kettle Corn",
         "img": "/assets/img/Explore/Valentines.webp",
         "price": "69.99",
@@ -423,7 +417,7 @@
         "info1": [
             {
                 "title": "About this flavor",
-                "description": "The best ingredients on the planet make Popcornopolis Kettle Corn. Popped in small batches with a winning combination of sugar and salt for a perfect balance, along with an unforgettable crunch to make these Valentine’s Day popcorn treats. It’s sweet. It’s salty. It’s delicious.",
+                "description": "The best ingredients on the planet make INCorn Kettle Corn. Popped in small batches with a winning combination of sugar and salt for a perfect balance, along with an unforgettable crunch to make these Valentine’s Day popcorn treats. It’s sweet. It’s salty. It’s delicious.",
                 "img": "/assets/img/Explore/Valentines3.webp"
             }
         ],
@@ -444,7 +438,6 @@
         "flavor": "Kettle Corn",
         "img": "/assets/img/Explore/skeleton.webp",
         "subimg":"/assets/img/Bats.webp",
-        "nutritions":"https://www.popcornopolis.com/wp-content/uploads/KettleCorn0.9oz.webp",
         "price": "99.99",
         "stock": "out",
         "create": "no",
@@ -454,14 +447,14 @@
         "info1": [
             {
                 "title": "About this flavor",
-                "description": "The best ingredients on the planet make Popcornopolis Kettle Corn. Popped in small batches with a winning combination of sugar and salt for a perfect balance, along with an unforgettable crunch to make these All-American popcorn treats. It’s sweet. It’s salty. It’s delicious.",
+                "description": "The best ingredients on the planet make INCorn Kettle Corn. Popped in small batches with a winning combination of sugar and salt for a perfect balance, along with an unforgettable crunch to make these All-American popcorn treats. It’s sweet. It’s salty. It’s delicious.",
                 "img": "/assets/img/product/Kettle1.webp"
             }
         ],
         "info2": [
             {
                 "title": "A snack and a gift",
-                "description": "Popcornopolis mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up a case of popcorn treats today and you’ll be ready for anything.",
+                "description": "INCorn mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up a case of popcorn treats today and you’ll be ready for anything.",
                 "img": "/assets/img/Explore/kid.webp"
             }
         ]
@@ -483,14 +476,14 @@
         "info1": [
             {
                 "title": "About this flavor",
-                "description": "The delicious magic of the fall season is at your fingertips with Popcornopolis Pumpkin Spice Popcorn. All the flavors of homemade pumpkin pie, fresh from the oven, are generously dusted onto our crispy kettle corn, then topped off with a drizzling of decadent icing. The result: crunchtastic pumpkin spice perfection.",
+                "description": "The delicious magic of the fall season is at your fingertips with INCorn Pumpkin Spice Popcorn. All the flavors of homemade pumpkin pie, fresh from the oven, are generously dusted onto our crispy kettle corn, then topped off with a drizzling of decadent icing. The result: crunchtastic pumpkin spice perfection.",
                 "img": "/assets/img/Explore/pump1.webp"
             }
         ],
         "info2": [
             {
                 "title": "A snack and a gift",
-                "description": "Popcornopolis tall-size cones are the perfect popcorn snack. Can’t finish a whole cone today? Just use the twist-tie to close it back up. Looking for more than just a snack? The unique shape and style of a Popcornopolis cone make it a perfect gift for any occasion. Share a cone today.",
+                "description": "INCorn tall-size cones are the perfect popcorn snack. Can’t finish a whole cone today? Just use the twist-tie to close it back up. Looking for more than just a snack? The unique shape and style of a INCorn cone make it a perfect gift for any occasion. Share a cone today.",
                 "img": "/assets/img/Explore/pump2.webp"
             }
         ]
@@ -500,7 +493,7 @@
         "bg": "#E22733",
         "fill": "#CF242F",
         "pack": "Pack of 12",
-        "description": "Once you hold a cone of Popcornopolis popcorn in your hand, you'll never forget it. And once you taste our classic Caramel Corn, you'll never think of popcorn the same again. You will truly understand the meaning of gourmet popcorn. The layers of flavor, each distinct, blending into a decadent dessert that can only come from Popcornopolis. So hold a cone, eat a handful, and let the joy crunch through.",
+        "description": "Once you hold a cone of INCorn popcorn in your hand, you'll never forget it. And once you taste our classic Caramel Corn, you'll never think of popcorn the same again. You will truly understand the meaning of gourmet popcorn. The layers of flavor, each distinct, blending into a decadent dessert that can only come from INCorn. So hold a cone, eat a handful, and let the joy crunch through.",
         "flavor": "Caramel Corn",
         "img": "/assets/img/Explore/cara.webp",
         "price": "59.99",
@@ -519,7 +512,7 @@
         "info2": [
             {
                 "title": "A snack and a gift",
-                "description": "Popcornopolis regular-size cones are the perfect popcorn snack pack. Can’t finish a whole cone today? Just use the twist-tie to close it back up. Looking for more than just a snack? The unique shape and style of a Popcornopolis cone make it a perfect gift for any occasion. Share a cone today.",
+                "description": "INCorn regular-size cones are the perfect popcorn snack pack. Can’t finish a whole cone today? Just use the twist-tie to close it back up. Looking for more than just a snack? The unique shape and style of a INCorn cone make it a perfect gift for any occasion. Share a cone today.",
                 "img": "/assets/img/product/CaramelTall2.webp"
             }
         ]
@@ -548,7 +541,7 @@
         "info2": [
             {
                 "title": "A snack and a gift",
-                "description": "Popcornopolis mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up a case of popcorn treats today and you’ll be ready for anything!",
+                "description": "INCorn mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up a case of popcorn treats today and you’ll be ready for anything!",
                 "img": "/assets/img/Explore/Cin2.webp"
             }
         ]
@@ -561,7 +554,7 @@
         "description": "It's the stuff that dreams are made of. This imaginative blend of natural fruit flavors sweet-tart icings with the classic crunch of gourmet popcorn is a real one-of-a-kind. Like it's loveable namesake, this storybook concoction conjures up a treat to charm the child in us all. A case of 40 individually wrapped popcorn treats will have you ready for delicious fun any time of the year.",
         "flavor": "Unicorn",
         "img": "/assets/img/Explore/Uni.webp",
-        "nutrition":"https://www.popcornopolis.com/wp-content/uploads/Unicorn_12_oz.jpg",
+        "nutrition":"https://www.INCorn.com/wp-content/uploads/Unicorn_12_oz.jpg",
         "price": "89.99",
         "stock": "out",
         "save": "80.99",
@@ -578,7 +571,7 @@
         "info2": [
             {
                 "title": "A snack and a gift",
-                "description": "Popcornopolis mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up a case of popcorn treats today and you’ll be ready for anything!",
+                "description": "INCorn mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up a case of popcorn treats today and you’ll be ready for anything!",
                 "img": "/assets/img/Explore/uni1.webp"
             }
         ]
@@ -609,7 +602,7 @@
         "info2": [
             {
                 "title": "Snacking and more",
-                "description": "Popcornopolis Nearly Naked White Cheddar popcorn is the perfect snack for anywhere. On the go, or take it slow. Turn up the party or turn down the lights for a movie. Share the cheesy fun with anyone. Serious zesty business.",
+                "description": "INCorn Nearly Naked White Cheddar popcorn is the perfect snack for anywhere. On the go, or take it slow. Turn up the party or turn down the lights for a movie. Share the cheesy fun with anyone. Serious zesty business.",
                 "img": "/assets/img/product/White2.webp"
             }
         ]
@@ -650,7 +643,7 @@
         "bg": "#84C4EC",
         "fill": "#91CBED",
         "pack": "",
-        "description": "A true customer favorite. Our Classic 5-Cone Popcorn Gift Basket comes beautifully wrapped and ready to give. Inside, are the all-star Popcornopolis flavors that made our company famous. Prepare yourself for some serious praise when you present this basket of popcorn snacks to someone special.",
+        "description": "A true customer favorite. Our Classic 5-Cone Popcorn Gift Basket comes beautifully wrapped and ready to give. Inside, are the all-star INCorn flavors that made our company famous. Prepare yourself for some serious praise when you present this basket of popcorn snacks to someone special.",
         "flavor": "",
         "img": "/assets/img/Shop popcorn/Gift.webp",
         "price": "49.99",
@@ -698,7 +691,7 @@
         "info2": [
             {
                 "title": "A snack and a gift",
-                "description": "Popcornopolis mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up a case of popcorn treats today and you’ll be ready for anything!",
+                "description": "INCorn mini cones are a cute, convenient, snack-size package, perfect for school lunches and afternoon pick-me-ups. They also make welcome appreciation gifts and are great for your pantry or office breakroom. Pick up a case of popcorn treats today and you’ll be ready for anything!",
                 "img": "/assets/img/product/Unicorn2.webp"
             }
         ]
@@ -714,7 +707,7 @@
         "subimg": "/assets/img/Shop popcorn/minicaramel.webp",
         "price": "71.99",
         "new": "new",
-        "nutrition": "https://www.popcornopolis.com/wp-content/uploads/caramel_corn_2.2_oz.jpg",
+        "nutrition": "https://www.INCorn.com/wp-content/uploads/caramel_corn_2.2_oz.jpg",
         "cash": "have",
         "color": "#fff",
         "bagbgcolor": "#Fed455",
@@ -729,22 +722,22 @@
         "info2": [
             {
                 "title": "A snack and a gift",
-                "description": "Popcornopolis tall-size cones are the perfect popcorn snack pack. Can’t finish a whole cone today? Just use the twist-tie to close it back up. Looking for more than just a snack? The unique shape and style of a Popcornopolis cone make it a perfect gift for any occasion. Share a cone today.",
+                "description": "INCorn tall-size cones are the perfect popcorn snack pack. Can’t finish a whole cone today? Just use the twist-tie to close it back up. Looking for more than just a snack? The unique shape and style of a INCorn cone make it a perfect gift for any occasion. Share a cone today.",
                 "img": "/assets/img/product/CaramelTall2.webp"
             }
         ]
     },
-    "popcornopolis®-takis-fuego®-tall-cone": {
-        "title": "Popcornopolis® Takis Fuego® Tall Cone",
+    "INCorn®-takis-fuego®-tall-cone": {
+        "title": "INCorn® Takis Fuego® Tall Cone",
         "bg": "#E22733",
         "fill": "#CF242F",
         "pack": "Pack of 12",
-        "description": "We’re adding some heat to the season. Introducing Popcornopolis® Takis Fuego® Popcorn, an intense flavor combination that brings spicy and tart together to wake-up the taste buds. Add the perfect crunch of our premium popcorn and you won’t be able to extinguish the heat between bites.",
+        "description": "We’re adding some heat to the season. Introducing INCorn® Takis Fuego® Popcorn, an intense flavor combination that brings spicy and tart together to wake-up the taste buds. Add the perfect crunch of our premium popcorn and you won’t be able to extinguish the heat between bites.",
         "flavor": "Hot Chili Pepper & Lime",
         "img": "/assets/img/Shop popcorn/Takis.webp",
         "price": "59.99",
         "new": "new",
-        "nutrition": "https://www.popcornopolis.com/wp-content/uploads/Takis_Fuego_1.75oz.jpg",
+        "nutrition": "https://www.INCorn.com/wp-content/uploads/Takis_Fuego_1.75oz.jpg",
         "cash": "have",
         "color": "#fff",
         "bagbgcolor": "#Fed455",
@@ -752,14 +745,14 @@
         "info1": [
             {
                 "title": "About this flavor",
-                "description": "Some like it hot. That’s why the Popcornopolis Takis Fuego edition was forged in flames. And out of the fire, rises not just the intense flavor combination of hot chili pepper and lime, but the passion to be bold. Do you have what it takes to face the flame? Get ready for a journey that starts with heat, ends with fun, and is designed to relive over and over.",
+                "description": "Some like it hot. That’s why the INCorn Takis Fuego edition was forged in flames. And out of the fire, rises not just the intense flavor combination of hot chili pepper and lime, but the passion to be bold. Do you have what it takes to face the flame? Get ready for a journey that starts with heat, ends with fun, and is designed to relive over and over.",
                 "img": "/assets/img/Shop popcorn/Takis1.jpg"
             }
         ],
         "info2": [
             {
                 "title": "Ready for a temperature adventure",
-                "description": "Do not adjust your thermostat. Popcornopolis Takis Fuego tall cones are a perfect way to warm up any holiday event. Excellent for school and office parties, bringing along on the holiday road trip, or livening up this year’s stockings. Fun design. Bold flavor. Stop, drop, and roll. This is not a drill.",
+                "description": "Do not adjust your thermostat. INCorn Takis Fuego tall cones are a perfect way to warm up any holiday event. Excellent for school and office parties, bringing along on the holiday road trip, or livening up this year’s stockings. Fun design. Bold flavor. Stop, drop, and roll. This is not a drill.",
                 "img": "/assets/img/Shop popcorn/Takis2.jpg"
             }
         ]
@@ -789,7 +782,7 @@
         "info2": [
             {
                 "title": "A snack and a gift",
-                "description": "Popcornopolis tall-size cones are the perfect popcorn snack pack. Can’t finish a whole cone today? Just use the twist-tie to close it back up. Looking for more than just a snack? The unique shape and style of a Popcornopolis cone make it a perfect gift for any occasion. Share a cone today.",
+                "description": "INCorn tall-size cones are the perfect popcorn snack pack. Can’t finish a whole cone today? Just use the twist-tie to close it back up. Looking for more than just a snack? The unique shape and style of a INCorn cone make it a perfect gift for any occasion. Share a cone today.",
                 "img": "/assets/img/product/CheddarTall.webp"
             }
         ]
@@ -798,12 +791,11 @@
         "title": "Classic Stripe 2-Gallon Tin Classic Assortment",
         "bg": "#84C4EC",
         "fill": "#91CBED",
-        "description": "Every popcorn gift tin is not created equal. A Popcornopolis popcorn tin guarantees that you will get a beautiful, reusable steel tub, filled to the brim with the very best gourmet popcorn you have ever tasted. This classic striped edition has three sections, each filled with one of our best-selling varieties. Try them yourself, or give them as a gift. Either way, you really can't go wrong. We guarantee it.",
+        "description": "Every popcorn gift tin is not created equal. A INCorn popcorn tin guarantees that you will get a beautiful, reusable steel tub, filled to the brim with the very best gourmet popcorn you have ever tasted. This classic striped edition has three sections, each filled with one of our best-selling varieties. Try them yourself, or give them as a gift. Either way, you really can't go wrong. We guarantee it.",
         "flavor": "Caramel Corn, Cheddar Cheese, Kettle Corn",
         "img": "/assets/img/Explore/bigtins.webp",
         "subimg": "/assets/img/Shop popcorn/tins.webp",
         "price": "49.99",
-        "nutritions": "https://www.popcornopolis.com/wp-content/uploads/MicrosoftTeams-image-16.jpg",
         "stock": "have",
         "save": "44.99",
         "create": "no",
@@ -831,7 +823,7 @@
         "bg": "#E22733",
         "fill": "#CF242F",
         "pack": "Pack of 12",
-        "description": "Have you ever dreamed about chocolate flavored popcorn? So have we. In fact, we made that dream a reality many years ago with our, now famous, Zebra® Popcorn, the original Popcornopolis gourmet Caramel Corn drizzled with white and dark confectioner's chocolates.It's crispy. It's crunchy. It's chocolatey delicious. A sweet indulgent decadence that you will never forget. We guarantee it..",
+        "description": "Have you ever dreamed about chocolate flavored popcorn? So have we. In fact, we made that dream a reality many years ago with our, now famous, Zebra® Popcorn, the original INCorn gourmet Caramel Corn drizzled with white and dark confectioner's chocolates.It's crispy. It's crunchy. It's chocolatey delicious. A sweet indulgent decadence that you will never forget. We guarantee it..",
         "flavor": "Zebra®",
         "img": "/assets/img/Shop popcorn/ZebraTall.webp",
         "subimg": "/assets/img/Shop popcorn/zebra.webp",
@@ -851,7 +843,7 @@
         "info2": [
             {
                 "title": "A snack and a gift",
-                "description": "Popcornopolis tall-size cones are the perfect popcorn snack pack. Can’t finish a whole cone today? Just use the twist-tie to close it back up. Looking for more than just a snack? The unique shape and style of a Popcornopolis cone make it a perfect gift for any occasion. Share a cone today.",
+                "description": "INCorn tall-size cones are the perfect popcorn snack pack. Can’t finish a whole cone today? Just use the twist-tie to close it back up. Looking for more than just a snack? The unique shape and style of a INCorn cone make it a perfect gift for any occasion. Share a cone today.",
                 "img": "/assets/img/product/ZebraTall.webp"
             }
         ]

@@ -1,8 +1,6 @@
-import React, { useEffect } from 'react'
+import React from 'react'
 import Header from '../Header/Header'
 import { NavLink } from 'react-router-dom'
-import { FaArrowRightLong } from 'react-icons/fa6'
-import { FaAngleRight } from 'react-icons/fa'
 import Footer from '../Footer/Footer'
 
 function Fundraising() {
@@ -44,7 +42,7 @@ function Fundraising() {
                             </h2>
                             <div className='mt-5 w-7 h-1 mb-7 bg-[#Fed455]'></div>
 
-                            <p className='text-[18px] text-[#613223] font-sofia'>From the very beginning, we’ve used only the finest ingredients, our own original recipes and small-batch cooking processes. Our popular Caramel and famous Zebra popcorn, with stripes of white and dark confectioner’s chocolate, put Popcornopolis on the map, and our dedication to taste and quality will ensure your supporters come back year after year.</p>
+                            <p className='text-[18px] text-[#613223] font-sofia'>From the very beginning, we’ve used only the finest ingredients, our own original recipes and small-batch cooking processes. Our popular Caramel and famous Zebra popcorn, with stripes of white and dark confectioner’s chocolate, put Incorn on the map, and our dedication to taste and quality will ensure your supporters come back year after year.</p>
                         </div>
                         <div className="bg-[#e22733] h-[70vh] w-[60%] relative rounded-tl-[200px] max-[1200px]:rounded-tl-[100px] max-[1200px]:rounded-br-[100px]">
                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" className='relative w-full  bg-[#e22733] h-[auto] rounded-full' width="932.297" viewBox="0 0 932.297 497.424">
@@ -106,7 +104,7 @@ function Fundraising() {
                             <span className='font-turbinado text-[53px] max-md:text-[40px] text-[#E22733]'>Taste</span> and Quality.
                         </h2>
                         <div className='mt-5 w-7 h-1 mb-7 bg-[#Fed455]'></div>
-                        <p className='text-[18px] text-[#613223] mb-10 font-sofia'>From the very beginning, we’ve used only the finest ingredients, our own original recipes and small-batch cooking processes. Our popular Caramel and famous Zebra popcorn, with stripes of white and dark confectioner’s chocolate, put Popcornopolis on the map, and our dedication to taste and quality will ensure your supporters come back year after year.</p>
+                        <p className='text-[18px] text-[#613223] mb-10 font-sofia'>From the very beginning, we’ve used only the finest ingredients, our own original recipes and small-batch cooking processes. Our popular Caramel and famous Zebra popcorn, with stripes of white and dark confectioner’s chocolate, put Incorn on the map, and our dedication to taste and quality will ensure your supporters come back year after year.</p>
                     </div>
                 </div>
             </div>
@@ -121,7 +119,7 @@ function Fundraising() {
                 <h3 className='text-[53px] max-[1200px]:text-[47px] max-md:text-[42px] text-[#e22733]'>Start Your Fundraiser.</h3>
                 <div className='mt-5 w-7 h-1 mb-7 bg-[#e22733]'></div>
                 <div className="text-[17px] max-[1200px]:text-[15px] overflow-hidden">
-                    <p className='text-[17px] max-[1200px]:text-[15px] text-[#613223] mb-10 font-sofia'>The Popcornopolis team at Barcel USA is pleased to announce that we have partnered with Gateway Fundraising to support our fundraising business. Gateway Fundraising is a well-established company and has been successfully working with fundraising customers for over 40 years.</p>
+                    <p className='text-[17px] max-[1200px]:text-[15px] text-[#613223] mb-10 font-sofia'>The Incorn team at Barcel USA is pleased to announce that we have partnered with Gateway Fundraising to support our fundraising business. Gateway Fundraising is a well-established company and has been successfully working with fundraising customers for over 40 years.</p>
                     <p>
                         <NavLink style={{ textShadow: "0px 1px 0px #810e05", boxShadow: "3px 4px 0px 0px #864D1C", fontFamily: "Arial" }} className=' inline-block bg-[#FBC02D]  p-8 rounded-2xl border-[6px] border-[#F57F17] text-[17px] max-[1200px]:text-[15px]'>
                             Get started with our Partner Gateway Fundraising
@@ -132,7 +130,7 @@ function Fundraising() {
                         <p className='mb-2'>Call at <NavLink className="text-[#386cce] underline hover:no-underline">909-476-7870 </NavLink > and ask for Veronica or email at <NavLink className=" text-[#386cce] underline hover:no-underline">veronica@gatewayfundraising.com</NavLink></p>
                         <p className='mb-2'>Contact Gateway Fundraising today to start your new fundraiser.</p>
                         <p className='mb-2'>Active Fundraisers If you have questions about an existing fundraiser or need to check the status of your order with</p>
-                        <p className='mb-2'>Popcornopolis, please contact our Fundraising team at:<NavLink className="text-[#386cce] underline hover:no-underline"> fundraising@grupobimbo.com</NavLink></p>
+                        <p className='mb-2'>Incorn, please contact our Fundraising team at:<NavLink className="text-[#386cce] underline hover:no-underline"> fundraising@grupobimbo.com</NavLink></p>
 
                     </div>
                 </div>

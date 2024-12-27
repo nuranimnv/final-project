@@ -18,7 +18,7 @@ function BulkOrders() {
                     <div className="md:w-[70%] ">
                         <p className='text-[60px] max-[1200px]:text-[50px] max-lg:text-[44px] max-md:text-[30px] leading-none text-[#E40C13]'>Wholesale Inquiries <span className='text-[90px] max-[1200px]:text-[60px] max-lg:text-[53px] max-md:text-[38px] font-turbinado text-[#613223]'>and</span> Bulk Orders.</p>
                         <div className='mt-5 w-7 h-1 mb-7 bg-[#E22733]'></div>
-                        <p className='text-[20px] max-lg:text-[17px] mb-20 font-sofia'>At Popcornopolis, we create mouth-watering treats your customers will come back for, time and time again. Our wholesale team is available and happy to discuss the right line of Popcornopolis products for your Warehouse, Grocery,
+                        <p className='text-[20px] max-lg:text-[17px] mb-20 font-sofia'>At INcorn, we create mouth-watering treats your customers will come back for, time and time again. Our wholesale team is available and happy to discuss the right line of INcorn products for your Warehouse, Grocery,
                             Convenience Store, or Entertainment Venue. Call us today at 800-767-2489, or submit this form with your request. We look forward to speaking soon.</p>
                     </div>
                 </div>

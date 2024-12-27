@@ -58,7 +58,7 @@ function Shipping() {
                                 </div>
                                 <h5 className='text-[42px] max-lg:text-[37px] max-md:text-[32px] text-[#E40C13] mb-5'>What shipping methods are available?</h5>
                                 <div className="text-[17px] leading-[1.8] max-lg:text-[15px] text-[#613223] font-sofia">
-                                    <p className='mb-10'>Popcornopolis offers 3 different shipping methods for you to choose. Below is an outline of the requirements and restrictions associated with each service.</p>
+                                    <p className='mb-10'>INCorn offers 3 different shipping methods for you to choose. Below is an outline of the requirements and restrictions associated with each service.</p>
                                 </div>
                                 <h5 className='text-[35px] max-lg:text-[32px] max-md:text-[28px]  text-[#E40C13] mb-10'>Ground Shipping</h5>
                                 <div className="text-[17px] leading-[1.8] max-lg:text-[15px] text-[#613223] font-sofia mb-32">
@@ -156,7 +156,7 @@ function Shipping() {
                         </div>
 
                         {/* <div className="chapter3-1">
-                            <h5 className='text-[35px] max-lg:text-[32px] max-md:text-[28px] text-[#E40C13] mb-10'>What is Popcornopolis doing to prevent the spread?</h5>
+                            <h5 className='text-[35px] max-lg:text-[32px] max-md:text-[28px] text-[#E40C13] mb-10'>What is INCorn doing to prevent the spread?</h5>
                             <div className="text-[17px] md:pl-[60px] max-lg:text-[15px] text-[#613223] font-sofia">
                                 <div className='flex gap-x-3 '>
                                     <span className='w-[8px] h-[8px] absolute  bg-[#E40C13] rounded-full mt-2'></span>

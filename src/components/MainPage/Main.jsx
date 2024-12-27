@@ -27,11 +27,11 @@ function Main({ className }) {
     let data = {
         quotes: [
             {
-                quote: "We love snacking on the savory and sweet popcorn from Popcornopolis.",
+                quote: "We love snacking on the savory and sweet popcorn from INCorn.",
                 author: "– Business Insider"
             },
             {
-                quote: "You cannot go wrong with popcorn, especially if it’s artisanal Popcornopolis popcorn.",
+                quote: "You cannot go wrong with popcorn, especially if it’s artisanal INCorn popcorn.",
                 author: "– Scary Mommy"
             },
             {
@@ -384,10 +384,10 @@ function Main({ className }) {
                         <p className='text-[42px] max-lg:text-[37px] text-red-600 max-md:text-[33px] '>Our fans are obsessed.</p>
                         <div className='mt-2 w-6 my-10 h-1 pr-10 bg-red-600'></div>
                         <div className="flex items-center justify-between">
-                            <div className="text-[25px] max-lg:text-[19px] text-[#613233] w-[60%]">#Popcornopolis #LifeBetterPOPPED</div>
+                            <div className="text-[25px] max-lg:text-[19px] text-[#613233] w-[60%]">INCorn</div>
                             <div className="flex text-white gap-x-1">
-                                <NavLink to={"https://www.facebook.com/popcornopolis"} target='_blank'><GrFacebookOption size={50} className='p-3 bg-red-600 rounded-full' /></NavLink>
-                                <NavLink to={"https://www.instagram.com/popcornopolis"} target='_blank'><IoLogoInstagram size={50} className='p-3 bg-red-600 rounded-full' /></NavLink>
+                                <NavLink target='_blank'><GrFacebookOption size={50} className='p-3 bg-red-600 rounded-full' /></NavLink>
+                                <NavLink target='_blank'><IoLogoInstagram size={50} className='p-3 bg-red-600 rounded-full' /></NavLink>
                             </div>
                         </div>
                     </div>
@@ -437,7 +437,7 @@ function Main({ className }) {
                                         </span>
                                         <div className="flex flex-col lg:absolute bottom-[-140px] max-lg:bottom-[-120px] font-sofia font-bold">
                                             <span className='text-[20px] mb-2 max-[1200px]:text-[18px] max-lg:text-[16px]  text-[#412015]'>Rachael and Lucas</span>
-                                            <span className='lg:h-[120px] text-[#612223] max-lg:text-[15px] opacity-70 font-normal'>We love spending quality one-on-one time together any chance we can get! @Popcornopolis makes that time even sweeter.</span>
+                                            <span className='lg:h-[120px] text-[#612223] max-lg:text-[15px] opacity-70 font-normal'>We love spending quality one-on-one time together any chance we can get! @INcorn makes that time even sweeter.</span>
                                         </div>
                                     </NavLink>
 
@@ -487,7 +487,7 @@ function Main({ className }) {
                                         </span>
                                         <div className="flex flex-col lg:absolute bottom-[-140px] max-lg:bottom-[-120px] font-sofia font-bold">
                                             <span className='text-[20px] mb-2 max-[1200px]:text-[18px] max-lg:text-[16px]  text-[#412015]'>Kasey M.</span>
-                                            <span className='lg:h-[120px] text-[#612223] max-lg:text-[15px] opacity-70 font-normal'>Popcornopolis has endless yummy flavors to choose from...They also make it easy for you to create your own assortment.</span>
+                                            <span className='lg:h-[120px] text-[#612223] max-lg:text-[15px] opacity-70 font-normal'>INcorn has endless yummy flavors to choose from...They also make it easy for you to create your own assortment.</span>
                                         </div>
                                     </NavLink>
 

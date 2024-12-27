@@ -39,7 +39,7 @@ function About() {
 
                 <div className="w-[43%] max-md:w-full md:relative right-7 top-10 max-md:px-[30px]">
                     <p className=' w-[22%] mb-10 max-lg:mt-20 text-[60px]  max-[1200px]:text-[50px] max-lg:text-[44px] max-md:text-[33px] leading-[0.9] text-[#E40C13]'>Your <span className='font-turbinado text-[90px] max-[1200px]:text-[60px] max-lg:text-[53px] max-md:text-[39px] text-[#613223]'>Delightful</span> Cravings</p>
-                    <p className='text-[20px] max-lg:text-[18px] max-md:text-[17px] lg:mb-10 text-[#613223] font-sofia'>Welcome to Popcornopolis, where the art of crafting craveable popcorn is not only a passion, but a way of life. Using only the best ingredients and imaginative recipes, our mission is simple: make the world a happier place by tantalizing taste buds.</p>
+                    <p className='text-[20px] max-lg:text-[18px] max-md:text-[17px] lg:mb-10 text-[#613223] font-sofia'>Welcome to INcorn, where the art of crafting craveable popcorn is not only a passion, but a way of life. Using only the best ingredients and imaginative recipes, our mission is simple: make the world a happier place by tantalizing taste buds.</p>
                 </div>
             </div>
             <div className="max-md:block hidden my-32">
@@ -119,7 +119,7 @@ function About() {
                     <div className="bg-[#E22733] w-[30%] max-lg:w-[47%] max-md:w-full md:absolute right-0 top-20 lg:pt-[91px] max-[1200px]:pt-[50px] pt-[60px] pb-[50px] lg:px-[70px] max-lg:pl-[61px]  lg:min-w-[459px] max-md:px-[11%] max-md:py-[2rem]  md:rounded-tl-[100px] md:rounded-br-[100px] max-md:rounded-bl-[100px] text-white">
                         <h3 className='max-lg:text-[25px] text-[28px] text-white'>We Are Active</h3>
                         <div className='mt-5 w-7 h-1 mb-8 bg-[#FED455]'></div>
-                        <p className='pb-[22px] lg:text-[17px] max-lg:text-[14px] max-md:text-[16px] mb-8 max-[1200px]:mb-0 font-sofia'>Popcornopolis was founded to create the world’s most delicious gourmet caramel corn. After 14 months spent carefully refining our recipe, Popcornopolis was born in 2003. Today Popcornopolis continues in the footsteps of the founders, only making the most delicious popcorn you’ve ever tried.</p>
+                        <p className='pb-[22px] lg:text-[17px] max-lg:text-[14px] max-md:text-[16px] mb-8 max-[1200px]:mb-0 font-sofia'>INcorn was founded to create the world’s most delicious gourmet caramel corn. After 14 months spent carefully refining our recipe, INcorn was born in 2003. Today INcorn continues in the footsteps of the founders, only making the most delicious popcorn you’ve ever tried.</p>
                     </div>
                 </div>
             </div>

@@ -20,23 +20,23 @@ function FAQ() {
     let faq = [
         {
             "question": "Where can I buy your premium product?",
-            "answer": "Right here on Popcornopolis.com, of course! Join the Popcornopolis Email Club to receive online discounts, seasonal promotions, popcorn gift ideas and the latest updates about our newest gourmet popcorn recipes. They’re also sold in many fine retail, wholesale and entertainment venues across our nation."
+            "answer": "Right here on INCorn.com, of course! Join the INCorn Email Club to receive online discounts, seasonal promotions, popcorn gift ideas and the latest updates about our newest gourmet popcorn recipes. They’re also sold in many fine retail, wholesale and entertainment venues across our nation."
         },
         {
-            "question": "Does Popcornopolis offer free samples?",
-            "answer": "We sure do! Along with the millions of free popcorn samples we’ve handed out during our Costco Roadshows and Tastings over the years, you can also sample any of our gourmet recipes at Popcornopolis retail stores — fresh from the warmers, and absolutely FREE. Although we can’t offer you free samples online, our 100% satisfaction guarantee means you can order with confidence."
+            "question": "Does INCorn offer free samples?",
+            "answer": "We sure do! Along with the millions of free popcorn samples we’ve handed out during our Costco Roadshows and Tastings over the years, you can also sample any of our gourmet recipes at INCorn retail stores — fresh from the warmers, and absolutely FREE. Although we can’t offer you free samples online, our 100% satisfaction guarantee means you can order with confidence."
         },
         {
             "question": "What does gourmet mean?",
-            "answer": "“Gourmet” is a word used to describe food made with high-quality ingredients and expert preparation. It also refers to a person who enjoys and is familiar with gourmet foods and artful cooking. So if you enjoy the taste of Popcornopolis gourmet popcorns, you may be a gourmet yourself!"
+            "answer": "“Gourmet” is a word used to describe food made with high-quality ingredients and expert preparation. It also refers to a person who enjoys and is familiar with gourmet foods and artful cooking. So if you enjoy the taste of INCorn gourmet popcorns, you may be a gourmet yourself!"
         },
         {
-            "question": "Is Popcornopolis popcorn gluten-free?",
-            "answer": "Yes! If you’re on the lookout for gluten-free snacks, everything we make is gluten-free. Popcornopolis is a gluten-free facility."
+            "question": "Is INCorn popcorn gluten-free?",
+            "answer": "Yes! If you’re on the lookout for gluten-free snacks, everything we make is gluten-free. INCorn is a gluten-free facility."
         },
         {
             "question": "What's the best oil to pop popcorn?",
-            "answer": "There are many ways to pop popcorn — and for the culinary experts at Popcornopolis, coconut oil wins, hands down. Popping kernels in high-grade coconut oil gives our popcorn a buttery taste, and the classic crunch our fans have enjoyed for decades."
+            "answer": "There are many ways to pop popcorn — and for the culinary experts at INCorn, coconut oil wins, hands down. Popping kernels in high-grade coconut oil gives our popcorn a buttery taste, and the classic crunch our fans have enjoyed for decades."
         },
         {
             "question": "Where does popcorn come from?",
@@ -48,7 +48,7 @@ function FAQ() {
         },
         {
             "question": "Do you offer kosher products?",
-            "answer": "Yes, Popcornopolis Kettle Corn, Nearly Naked Perfectly Salted, and Nearly Naked Jalapeno Lime popcorns are certified kosher by the Orthodox Union. The OU is the world’s most recognized and trusted kosher certification agency."
+            "answer": "Yes, INCorn Kettle Corn, Nearly Naked Perfectly Salted, and Nearly Naked Jalapeno Lime popcorns are certified kosher by the Orthodox Union. The OU is the world’s most recognized and trusted kosher certification agency."
         },
         {
             "question": "Where can I find nutrition information?",
@@ -56,19 +56,19 @@ function FAQ() {
         },
         {
             "question": "What snack should I eat?",
-            "answer": "Go where the love is: Popcornopolis! We’re known for our delicious gourmet gifts but you deserve a gift, too – treat yourself to any of our unique popcorn varieties, ranging from time-honored and taste to indulgently innovative. We’re so convinced you’ll love what our chefs cook up, we guarantee you’ll find our popcorn 100% delicious!"
+            "answer": "Go where the love is: INCorn! We’re known for our delicious gourmet gifts but you deserve a gift, too – treat yourself to any of our unique popcorn varieties, ranging from time-honored and taste to indulgently innovative. We’re so convinced you’ll love what our chefs cook up, we guarantee you’ll find our popcorn 100% delicious!"
         },
         {
             "question": "What is the best gift?",
-            "answer": "The best gift you can give anyone is love, caring and thoughtful consideration. For a delicious way to say it all, give the gift of Popcornopolis. It’s popped with love, seasoned with care and packaged with thoughtful consideration of fun, style and presentation."
+            "answer": "The best gift you can give anyone is love, caring and thoughtful consideration. For a delicious way to say it all, give the gift of INCorn. It’s popped with love, seasoned with care and packaged with thoughtful consideration of fun, style and presentation."
         },
         {
             "question": "What should I bring to a party?",
-            "answer": "By all means, bring yourself! Everybody wants to see you. You’ll also want to bring something for everyone to enjoy. Popcornopolis gourmet gift tins are the perfect plus-one for all kinds of get-togethers, from small dinner gatherings to football tailgate parties. By bringing one of our attractive tins that serve up to 35 popcorn lovers in a variety of mouthwatering flavors, you’ll be noted as a guest of honor and crowd-pleasing generosity."
+            "answer": "By all means, bring yourself! Everybody wants to see you. You’ll also want to bring something for everyone to enjoy. INCorn gourmet gift tins are the perfect plus-one for all kinds of get-togethers, from small dinner gatherings to football tailgate parties. By bringing one of our attractive tins that serve up to 35 popcorn lovers in a variety of mouthwatering flavors, you’ll be noted as a guest of honor and crowd-pleasing generosity."
         },
         {
             "question": "What gifts should I give clients and co-workers?",
-            "answer": "Take a look at our corporate gift catalog — in it, you’ll find numerous ways to show business clients, contacts, and co-workers your appreciation, while ensuring they remember you, too. With business gifts for every budget, convenient discounts, and personalization options, Popcornopolis makes corporate gift-giving easy."
+            "answer": "Take a look at our corporate gift catalog — in it, you’ll find numerous ways to show business clients, contacts, and co-workers your appreciation, while ensuring they remember you, too. With business gifts for every budget, convenient discounts, and personalization options, INCorn makes corporate gift-giving easy."
         },
         {
             "question": "How much popcorn is served in your gift tins?",
@@ -80,7 +80,7 @@ function FAQ() {
             "title1": "Mini Cones",
             "subtitle1": "Our cute-as-a-button Mini Cones make great small gifts, party favors, stocking stuffers, office handouts, and more. Measuring 11″ tall, each contains a single serving of popcorn and weighs between .87 and 2.7 oz depending on the flavor. Sold in our mini gift baskets and convenient cases of 40.",
             "title2": "Tall Cones",
-            "subtitle2": "Tall Cones make delightful holiday, birthday, or hostess gifts year-round. At 15″ tall, each holds between 1.75-8 oz depending on the flavor you select. Featured in Popcornopolis Gift Baskets and our create your own assortment program.",
+            "subtitle2": "Tall Cones make delightful holiday, birthday, or hostess gifts year-round. At 15″ tall, each holds between 1.75-8 oz depending on the flavor you select. Featured in INCorn Gift Baskets and our create your own assortment program.",
             "title3": "Regular Cones",
             "subtitle3": "Regular Cones are a colossal mound of popcorn bliss built for endless sharing. At 17″ tall, each holds between 2.75-12 oz depending on the flavor you select. Available at select retailers nationwide.",
         },
@@ -94,10 +94,10 @@ function FAQ() {
         },
         {
             "question": "What are your coupon terms?",
-            "answer": "Coupons are for a limited time only. They can be canceled at any time without notification.Coupons may only be used once.Coupons cannot be combined with any other coupon or discount.Coupons cannot be redeemed on purchases with sale or clearance merchandise.Coupons have no cash value.Coupons cannot be used on previous purchases.Coupons are only valid at https://popcornopolis.com on continental US orders only.                Void where prohibited.Restrictions may apply.Barcel USA reserves the right to make updates to coupon without notification."
+            "answer": "Coupons are for a limited time only. They can be canceled at any time without notification.Coupons may only be used once.Coupons cannot be combined with any other coupon or discount.Coupons cannot be redeemed on purchases with sale or clearance merchandise.Coupons have no cash value.Coupons cannot be used on previous purchases.Coupons are only valid at https://INCorn.com on continental US orders only.                Void where prohibited.Restrictions may apply.Barcel USA reserves the right to make updates to coupon without notification."
         },
         {
-            "question": "Does Popcornopolis charge sales tax?",
+            "question": "Does INCorn charge sales tax?",
             "answer": "Yes, sales tax is charged on shipped orders."
         },
     ]
@@ -223,7 +223,7 @@ function FAQ() {
                                     <p>Coupons cannot be redeemed on purchases with sale or clearance merchandise.</p>
                                     <p>Coupons have no cash value.</p>
                                     <p>Coupons cannot be used on previous purchases.</p>
-                                    <p>Coupons are only valid at https://popcornopolis.com on continental US orders only.</p>
+                                    <p>Coupons are only valid at https://INCorn.com on continental US orders only.</p>
                                     <p>Void where prohibited.</p>
                                     <p>Restrictions may apply.</p>
                                     <p>Barcel USA reserves the right to make updates to coupon without notification.</p>
