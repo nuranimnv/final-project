@@ -123,7 +123,7 @@ function Fundraising() {
                 <div className="text-[17px] max-[1200px]:text-[15px] overflow-hidden">
                     <p className='text-[17px] max-[1200px]:text-[15px] text-[#613223] mb-10 font-sofia'>The Popcornopolis team at Barcel USA is pleased to announce that we have partnered with Gateway Fundraising to support our fundraising business. Gateway Fundraising is a well-established company and has been successfully working with fundraising customers for over 40 years.</p>
                     <p>
-                        <NavLink style={{ textShadow: "0px 1px 0px #810e05", boxShadow: "3px 4px 0px 0px #864D1C", fontFamily: "Arial" }} className=' inline-block bg-[#FBC02D]  p-8 rounded-2xl border-[6px] border-[#F57F17] text-[17px] max-[1200px]:text-[15px]' to={"https://popcornfundraising.org/?_gl=1*1g7zy40*_gcl_au*OTM2OTkwMDE4LjE3MTYzODY3Nzg.*_ga*NDc0NTEyOTczLjE3MTYzODY3NzU.*_ga_ZJKVF32PDW*MTcyMTQ2ODE2NC4xOTQuMS4xNzIxNDcxOTQ1LjU5LjAuMjAxODE3NDc5MQ..#contact"}>
+                        <NavLink style={{ textShadow: "0px 1px 0px #810e05", boxShadow: "3px 4px 0px 0px #864D1C", fontFamily: "Arial" }} className=' inline-block bg-[#FBC02D]  p-8 rounded-2xl border-[6px] border-[#F57F17] text-[17px] max-[1200px]:text-[15px]'>
                             Get started with our Partner Gateway Fundraising
                         </NavLink>
                     </p>

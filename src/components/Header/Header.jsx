@@ -273,20 +273,6 @@ export default function Header({ bgcolor, color, title, onClick }) {
                                                             <p className='mb-2 hover:text-[#E22733] hover:underline duration-300'><NavLink to={"/shop/best-sellers"}>best sellers</NavLink></p>
                                                         </div>
                                                     </div>
-
-                                                    <div className=" explore create">
-                                                        <NavLink to={"/explore"} href='#' className='relative uppercase '>
-                                                            <div className="flex items-center gap-x-2">
-                                                                Explore
-                                                                <FaAngleDown className={`${isFixed ? "text-[#e22733]" : ''}`} />
-                                                            </div>
-                                                        </NavLink>
-                                                        <div style={{ borderRadius: "0 50px 0 50px" }} className="absolute w-[220px] shadow-2xl font-sofia font-bold bg-white text-[#613223] capitalize p-10 pr-12 mt-1 explore-content z-30 text-[15px]">
-                                                            <p className='mb-2 hover:text-[#E22733] hover:underline duration-300'><NavLink to={"/mushroom-vs-butterfly-popcorn/"}> about popcorn</NavLink></p>
-                                                            <p className='mb-2 hover:text-[#E22733] hover:underline duration-300'><NavLink to={"/gourmet-popcorn/"}>gourmet popcorn</NavLink></p>
-                                                            <p className='mb-2 hover:text-[#E22733] hover:underline duration-300'><NavLink to={"/happiness"}>Happiness By The  Handful™</NavLink></p>
-                                                        </div>
-                                                    </div>
                                                 </div>
                                             </div>
 

@@ -8,11 +8,6 @@ import Create2 from './components/CreatePages/Create2';
 import Create3 from './components/CreatePages/Create3';
 import ShopMain from './components/ShopPopcorn/ShopMain';
 import DoubleDrizzle from './components/ShopPopcorn/DoubleDrizzle';
-import ExploreLayout from './components/Explore/ExploreLayout';
-import Explore from './components/Explore/Explore';
-import Happiness from './components/Explore/Happiness';
-import Mushroom from './components/Explore/Mushroom';
-import Gourmet from './components/Explore/Gourmet';
 import CustomerCare from './components/FooterContent/CustomerCare';
 import About from './components/FooterContent/About';
 import Faq from './components/FooterContent/Faq';
@@ -31,15 +26,6 @@ import Page3 from './components/Page3';
 import Fundraising from './components/MainPage/Fundraising';
 import AllFlavors from './components/MainPage/AllFlavors';
 import CorporateGift from './components/MainPage/CorporateGift';
-import Valentines from './components/Explore/Valentines';
-import Earth from './components/Explore/Earth';
-import MothersDay from './components/Explore/MothersDay';
-import Congrats from './components/Explore/Congrats';
-import FatherDay from './components/Explore/FathersDay';
-import Hallowen from './components/Explore/Hallowen';
-import Easter from './components/Explore/Easter';
-import NewYear from './components/Explore/NewYear';
-import Christmas from './components/Explore/Christmas';
 import ContextProvider from './context/ContextProvider';
 import Edit from './components/Edit';
 import Checkout from './components/ShopPopcorn/Checkout';
@@ -66,11 +52,6 @@ const router = createBrowserRouter([
           { path: "bagged-popcorn/double-drizzle-popcorn-bag/", element: <DoubleDrizzle /> },
         ]
       },
-      {
-        path: "/explore", element: <ExploreLayout />, children: [
-          { path: "", element: <Explore /> },
-        ]
-      },
       { path: "/cart/", element: <Edit /> },
       { path: "/checkout/", element: <Checkout /> },
       { path: "/fundraising/", element: <Fundraising /> },
@@ -78,18 +59,6 @@ const router = createBrowserRouter([
       { path: "privacy-policy/", element: <PrivacyPolicy /> },
       { path: "/corporate-gifts/", element: <CorporateGift /> },
       { path: "popcorn-flavors/", element: <AllFlavors /> },
-      { path: "/happiness", element: <Happiness /> },
-      { path: "/mothers-day/", element: <MothersDay /> },
-      { path: "/fathers-day/", element: <FatherDay /> },
-      { path: "/easter/", element: <Easter /> },
-      { path: "/winter-holiday-gift-guide/", element: <NewYear /> },
-      { path: "/christmas/", element: <Christmas /> },
-      { path: "/halloween/", element: <Hallowen /> },
-      { path: "/congrats-grads/", element: <Congrats /> },
-      { path: "/valentines/", element: <Valentines /> },
-      { path: "/earth-day/", element: <Earth /> },
-      { path: "/mushroom-vs-butterfly-popcorn", element: <Mushroom /> },
-      { path: "gourmet-popcorn/", element: <Gourmet /> },
       { path: "customer-care/", element: <CustomerCare /> },
       { path: "about/", element: <About /> },
       { path: "faq/", element: <Faq /> },
