@@ -1171,7 +1171,7 @@ function Checkout() {
                           className={`py-[7px] ${
                             formErrors.form2.firstName && `border-[#e22733]`
                           }  border-[#c5cee0] border rounded-sm bg-[#FAFBFD] placeholder:text-[14.5px] px-2 w-full`}
-                          placeholder="Your first number"
+                          placeholder="Your first name"
                           type="text"
                         />
                         {formErrors.form2.firstName && (
@@ -1191,7 +1191,7 @@ function Checkout() {
                           className={`py-[7px] ${
                             formErrors.form2.lastName && `border-[#e22733]`
                           } border-[#c5cee0] border rounded-sm bg-[#FAFBFD] placeholder:text-[14.5px] px-2 w-full`}
-                          placeholder="Your last number"
+                          placeholder="Your last name"
                           type="text"
                         />
                         {formErrors.form2.lastName && (
