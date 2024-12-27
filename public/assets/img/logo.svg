@@ -1,24 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
-  <!-- Gradient Definition -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#ff8c42" />
-      <stop offset="100%" stop-color="#fbd14b" />
+      <stop offset="50%" stop-color="#fbd14b" />
+      <stop offset="100%" stop-color="#ff8c42" />
     </linearGradient>
-    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
-      <feDropShadow dx="0" dy="5" stdDeviation="10" flood-color="#f9a826" />
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
     </filter>
   </defs>
 
-  <!-- "İNCorn" Text -->
-  <text x="50%" y="50%" text-anchor="middle" font-size="140" font-family="'Comic Sans MS', sans-serif" font-weight="bold" fill="url(#textGradient)" filter="url(#shadow)">
+  <circle cx="380" cy="160" r="8" fill="#ff8c42" filter="url(#glow)" />
+  <circle cx="420" cy="200" r="10" fill="#fbd14b" filter="url(#glow)" />
+  <circle cx="360" cy="230" r="7" fill="#ff8c42" filter="url(#glow)" />
+  <circle cx="440" cy="250" r="6" fill="#f9a826" filter="url(#glow)" />
+
+  <text x="50%" y="50%" text-anchor="middle" font-size="160" font-family="'Comic Sans MS', cursive" font-weight="bold" fill="url(#goldGradient)" stroke="#ff0000" stroke-width="10" filter="url(#glow)">
     İNCorn
   </text>
-
-
-  <!-- Decorative Element: Corn-like Sparks -->
-  <circle cx="400" cy="150" r="6" fill="#ff8c42" />
-  <circle cx="450" cy="200" r="10" fill="#fbd14b" />
-  <circle cx="350" cy="200" r="8" fill="#f9a826" />
-  <circle cx="400" cy="250" r="5" fill="#ff8c42" />
+  <line x1="240" y1="360" x2="560" y2="360" stroke="#fbd14b" stroke-width="2" stroke-dasharray="10 5" />
 </svg>
