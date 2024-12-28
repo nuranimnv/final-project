@@ -23,7 +23,6 @@ function Create() {
                             <h4 className='text-[42px] max-md:text-[42px] leading-none '><span className='text-[#C90910] lg:text-[63px] font-turbinado'>Create</span> your own assortment<span className='text-[#E7730D]'>.</span></h4>
                             <div className='mt-2 w-6 h-1 my-2 bg-[#E7730D]'></div>
                             <p className='max-md:text-[17.56px] font-sofia'>Whether your personality is salty, sweet, or somewhere in between, you’ve got plenty of flavors to explore. Signature cones in two sizes, plus a new pouch option for lasting freshness…</p>
-                            {/* <img src="/assets/img/Explore/Create.webp" className='max-h-[250px] absolute z-10 bottom-0 max-[1492px]:bottom-[-100px] max-[1200px]:hidden' alt="" /> */}
                         </div>
                         <div className="w-[510px] mt-10 max-[1200px]:w-full">
                             <div className='body '>
